@@ -93,4 +93,4 @@ kable(data.frame(
    digits = 4)
 ```
 
-**Ссылка:**  [Ссылка на репозиторий проекта на GitHub]()
+**Ссылка:**  [Ссылка на репозиторий проекта на GitHub](https://github.com/Aradanius/R)
